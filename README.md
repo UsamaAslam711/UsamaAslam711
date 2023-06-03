@@ -13,7 +13,7 @@
 ### I'm a Flutter App Developer, Teach Enthusiast and Bussinessman!
 - 🔭 I’m currently working as Flutter App Developer.
 - 👯 I’m looking to collaborate with other tech enthusiasts and developers.
-- 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas and learn some new emerging technologies.
+- 🥅 2022-23 Goals: Learn GRAPH NEURAL NETWORKS and use this under-rated technology in projects and Execute my Innovative ideas and learn some more new emerging technologies.
 - 💎 If you are a Tech enthusiast let's get connected in.
 
  
