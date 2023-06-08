@@ -5,7 +5,7 @@
     <h1> Hi there, I'm Muhammad Usama👋<a href="#"></h1>
   </div>
 <p align="center">
-  <a href="https://github.com/UsamaAslam711"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Flutter+App+Developer;Dart%20|%20Flutter%20|%20Python;Firebase%20|%20Figma%20|%20Illustrator;Creating%20my%20own%20Sunshine&center=true&width=500&height=50" alt="Typing SVG"></a>
+  <a href="https://github.com/UsamaAslam711"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Flutter+App+Developer;Graph+Neural+Network;Dart%20|%20Flutter%20|%20Python;Firebase%20|%20Figma%20|%20Illustrator;Creating%20my%20own%20Sunshine&center=true&width=500&height=50" alt="Typing SVG"></a>
   
 </p>
 
