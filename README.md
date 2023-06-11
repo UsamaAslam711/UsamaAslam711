@@ -1,16 +1,5 @@
 
-' width="200">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="90" >
-    </td>
-	<td align='center' width="200">
-        	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="90">
-    	</td>
-	<td align='center' width="200">
-        	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100">
-    	</td>
-    
-</tr>
- 
+
 <tr>
 	<td align='center'>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"  width="80">
