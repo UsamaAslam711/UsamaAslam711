@@ -1,28 +1,5 @@
 
-![logo](https://github.com/UsamaAslam711/UsamaAslam711/blob/main/Purple%20Simple%20Modern%20Technology%20Banner.gif)
-
-<body>0&color
-	<td align='center' width="200">
-        	
-        	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="100">
-    	</td>
-	<td align='center'>
-        	<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="80">
-    	</td>
-	<td align='center'>
-        	<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="80">
-    	</td>
-</tr>
-    
-</table>
-
-<br>
-
-
-
-<h2>GitHub Analytics
- </h2>
-
+![logo](ht
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UsamaAslam711&rank_icon=github&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UsamaAslam711&hide=html&layout=compact&langs_count=8&theme=radical"/>
