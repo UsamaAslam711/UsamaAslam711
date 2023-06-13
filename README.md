@@ -1,25 +1,7 @@
 
 ![logo](https://github.com/UsamaAslam711/UsamaAslam711/blob/main/Purple%20Simple%20Modern%20Technology%20Banner.gif)
 
-<body>0&color=F7CC18&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Flutter+App+Developer;Graph+Neural+Network;Dart%20|%20Flutter%20|%20Python;Firebase%20|%20Figma%20|%20Illustrator;Creating%20my%20own%20Sunshine&center=true&width=500&height=50" alt="Typing SVG"></a>
-  
-</p>
-
-
-### I'm a Flutter App Developer, Tech Enthusiast and Bussinessman!
-- 🔭 I’m currently working as Flutter App Developer.
-- 👯 I’m looking to collaborate with other tech enthusiasts and developers.
-- 🥅 2022-23 Goals: Learn GRAPH NEURAL NETWORKS and use this under-rated technology in projects and Execute my Innovative ideas and learn some more new emerging technologies.
-- 💎 If you are a Tech enthusiast let's get connected in.
-
- 
-<br>
-
-    
-<h2>Tech Stack</h2>
-
-<table width="100" align="center">
-<tr>
+<body>0&color
 	<td align='center' width="200">
         	<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="90">
     	</td>
