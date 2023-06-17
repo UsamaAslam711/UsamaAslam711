@@ -1,6 +1,4 @@
 
-![logo](https://github.com/UsamaAslam711/UsamaAslam711/blob/main/Purple%20Simple%20Modern%20Technology%20Banner.gif)
-
 <body>
   <div align="center">
     <h1> Hi there, I'm Muhammad Usama👋<a href="#"></h1>
