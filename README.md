@@ -1,10 +1,4 @@
     	</td>
-    	<td align='center' width="200">
-        	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="100">
-    	</td>
-	<td align='center'>
-        	<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="80">
-    	</td>
 	<td align='center'>
         	<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="80">
     	</td>
