@@ -1,8 +1,3 @@
-    	</td>
-	<td align='center'>
-        	<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="80">
-    	</td>
-</tr>
     
 </table>
 
