@@ -1,10 +1,3 @@
-    
-<h2>Tech Stack</h2>
-
-<table width="100" align="center">
-<tr>
-	<td align='center' width="200">
-        	<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="90">
     	</td>
 	<td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="90" >
