@@ -1,7 +1,3 @@
-"https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="90">
-    	</td>
-	
-   
 </tr>
 	
 <tr>
