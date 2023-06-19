@@ -1,8 +1,3 @@
-	<td align='center' width="200">
-        	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100">
-    	</td>
-    
-</tr>
  
 <tr>
 	<td align='center'>
