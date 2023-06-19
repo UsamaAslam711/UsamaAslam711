@@ -1,6 +1,3 @@
-  
-</p>
-
 
 ### I'm a Flutter App Developer, Tech Enthusiast and Bussinessman!
 - 🔭 I’m currently working as Flutter App Developer.
