@@ -1,8 +1,4 @@
-    	</td>
-	
-   
-</tr>
-	
+
 <tr>
  	<td align='center'>
         	<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="80">
