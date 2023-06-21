@@ -1,7 +1,3 @@
-    	<td align='center'>
-        	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="80">
-    	</td>	
-	<td align='center'>
         	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png"  width="80">
     	</td>
 	<td align='center' width="200">
