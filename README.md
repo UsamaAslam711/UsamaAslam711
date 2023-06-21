@@ -1,7 +1,3 @@
-        	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png"  width="80">
-    	</td>
-	<td align='center' width="200">
-	        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="90">
     	</td>
 	
    
