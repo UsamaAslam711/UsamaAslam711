@@ -1,7 +1,3 @@
-- 👯 I’m looking to collaborate with other tech enthusiasts and developers.
-- 🥅 2023-24 Goals: Learn GRAPH NEURAL NETWORKS and use this under-rated technology in projects and Execute my Innovative ideas and learn some more new emerging technologies.
-- 💎 If you are a Tech enthusiast let's get connected in.
-
  
 <br>
 
