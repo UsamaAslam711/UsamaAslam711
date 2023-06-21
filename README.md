@@ -1,8 +1,3 @@
- 
-<tr>
-	<td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"  width="80">
-    	</td>
     	<td align='center'>
         	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="80">
     	</td>	
