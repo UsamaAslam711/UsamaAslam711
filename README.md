@@ -1,11 +1,3 @@
-    	</td>
-</tr>
-    
-</table>
-
-<br>
-
-
 
 <h2>GitHub Analytics
  </h2>
